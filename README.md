@@ -29,7 +29,6 @@ List of papers related to State Space Models (Mamba) in Vision.
 - [On the low-shot transferability of [V]-Mamba](https://arxiv.org/abs/2403.10696); Diganta Misra, Jay Gala, Antonio Orvieto ([Paper](https://arxiv.org/abs/2403.10696))
 - [EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://arxiv.org/abs/2403.09977); Xiaohuan Pei, Tao Huang, Chang Xu ([Paper](https://arxiv.org/abs/2403.09977), [Code](https://github.com/TerryPei/EfficientVMamba))
 - [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898); Md Atik Ahamed, Qiang Cheng ([Paper](https://arxiv.org/abs/2403.09898), [Code](https://github.com/Atik-Ahamed/TimeMachine))
-- [MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning](https://arxiv.org/abs/2403.09859); Zohar Rimon, Tom Jurgenson, Orr Krupnik, Gilad Adler, Aviv Tamar ([Paper](https://arxiv.org/abs/2403.09859))
 - [LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338); Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu ([Paper](https://arxiv.org/abs/2403.09338), [Code](https://github.com/hunto/LocalMamba))
 
 ## Multi-Modal Methods
