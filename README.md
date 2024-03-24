@@ -3,6 +3,7 @@ List of papers related to State Space Models (Mamba) in Vision.
 
 ## Table of Content
 - [Foundational Work](#foundational-work)
+- [Multi-Modal Methods](#multi-modal-methods)
 - [Perception Tasks](#perception-tasks)
 - [Video Understanding](#video-understanding)
 - [3D Vision](#3d-vision)
@@ -23,6 +24,17 @@ List of papers related to State Space Models (Mamba) in Vision.
 - [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047); Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons ([Paper](https://arxiv.org/abs/2402.19047))
 - [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/abs/2402.04248); Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos ([Paper](https://arxiv.org/abs/2402.04248))
 - [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771); Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge ([Paper](https://arxiv.org/abs/2402.01771), [Code](https://github.com/Zyphra/BlackMamba))
+- [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/abs/2403.12418); Lincan Li, Hanchen Wang, Wenjie Zhang, Adelle Coster ([Paper](https://arxiv.org/abs/2403.12418))
+- [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144); Zihan Wang, Fanheng Kong, Shi Feng, Ming Wang, Han Zhao, Daling Wang, Yifei Zhang ([Paper](https://arxiv.org/abs/2403.11144), [Code](https://github.com/wzhwzhwzh0921/S-D-Mamba))
+- [On the low-shot transferability of [V]-Mamba](https://arxiv.org/abs/2403.10696); Diganta Misra, Jay Gala, Antonio Orvieto ([Paper](https://arxiv.org/abs/2403.10696))
+- [EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://arxiv.org/abs/2403.09977); Xiaohuan Pei, Tao Huang, Chang Xu ([Paper](https://arxiv.org/abs/2403.09977), [Code](https://github.com/TerryPei/EfficientVMamba))
+- [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898); Md Atik Ahamed, Qiang Cheng ([Paper](https://arxiv.org/abs/2403.09898), [Code](https://github.com/Atik-Ahamed/TimeMachine))
+- [MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning](https://arxiv.org/abs/2403.09859); Zohar Rimon, Tom Jurgenson, Orr Krupnik, Gilad Adler, Aviv Tamar ([Paper](https://arxiv.org/abs/2403.09859))
+- [LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338); Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu ([Paper](https://arxiv.org/abs/2403.09338), [Code](https://github.com/hunto/LocalMamba))
+
+## Multi-Modal Methods
+- [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/abs/2403.14520); Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang ([Paper](https://arxiv.org/abs/2403.14520), [Code](https://sites.google.com/view/cobravlm))
+- [VL-Mamba: Exploring State Space Models for Multimodal Learning](https://arxiv.org/abs/2403.13600); Yanyuan Qiao, Zheng Yu, Longteng Guo, Sihan Chen, Zijia Zhao, Mingzhen Sun, Qi Wu, Jing Liu ([Paper](https://arxiv.org/abs/2403.13600))
 
 ## Perception Tasks
 - [Pan-Mamba: Effective pan-sharpening with State Space Model](https://arxiv.org/abs/2402.12192); Xuanhua He, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou ([Paper](https://arxiv.org/abs/2402.12192), [Code](https://github.com/alexhe101/Pan-Mamba))
@@ -32,15 +44,20 @@ List of papers related to State Space Models (Mamba) in Vision.
 - [Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy](https://arxiv.org/abs/2403.05146); Yuelin Zhang, Wanquan Yan, Kim Yan, Chun Ping Lam, Yufu Qiu, Pengyu Zheng, Raymond Shing-Yan Tang, Shing Shin Cheng ([Paper](https://arxiv.org/abs/2403.05146))
 - [MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](https://arxiv.org/abs/2403.05160); Zijie Fang, Yifeng Wang, Zhi Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang ([Paper](https://arxiv.org/abs/2403.05160))
 - [Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data](https://arxiv.org/abs/2402.05892); Shufan Li, Harkanwar Singh, Aditya Grover ([Paper](https://arxiv.org/abs/2402.05892))
+- [MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection](https://arxiv.org/abs/2403.02148); Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu ([Paper](https://arxiv.org/abs/2403.02148), [Code](https://github.com/txchen-USTC/MiM-ISTD))
+- [ProMamba: Prompt-Mamba for polyp segmentation](https://arxiv.org/abs/2403.13660); Jianhao Xie, Ruofan Liao, Ziang Zhang, Sida Yi, Yuesheng Zhu, Guibo Luo ([Paper](https://arxiv.org/abs/2403.13660))
 
 ## Video Understanding
 - [VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977); Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao ([Paper](https://arxiv.org/abs/2403.06977), [Code](https://github.com/OpenGVLab/VideoMamba))
+- [Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data](https://arxiv.org/abs/2402.05892); Shufan Li, Harkanwar Singh, Aditya Grover ([Paper](https://arxiv.org/abs/2402.05892))
+- [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626); Guo Chen, Yifei Huang, Jilan Xu, Baoqi Pei, Zhe Chen, Zhiqi Li, Jiahao Wang, Kunchang Li, Tong Lu, Limin Wang ([Paper](https://arxiv.org/abs/2403.09626), [Code](https://github.com/OpenGVLab/video-mamba-suite))
 
 ## 3D Vision
 - [PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739); Dingkang Liang, Xin Zhou, Xinyu Wang, Xingkui Zhu, Wei Xu, Zhikang Zou, Xiaoqing Ye, Xiang Bai ([Paper](https://arxiv.org/abs/2402.10739), [Code](https://github.com/LMD0311/PointMamba))
 - [nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model](https://arxiv.org/abs/2402.03526); Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li ([Paper](https://arxiv.org/abs/2402.03526), [Code](https://github.com/lhaof/nnMamba))
 - [Point Could Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/abs/2403.00762); Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan ([Paper](https://arxiv.org/abs/2403.00762), [Code](https://github.com/zhang-tao-whu/PCM))
 - [Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/abs/2403.07487); Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang ([Paper](https://arxiv.org/abs/2403.07487), [Code](https://steve-zeyu-zhang.github.io/MotionMamba/))
+- [Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy](https://arxiv.org/abs/2403.06467); Jiuming Liu, Ruiji Yu, Yian Wang, Yu Zheng, Tianchen Deng, Weicai Ye, Hesheng Wang ([Paper](https://arxiv.org/abs/2403.06467), [Code](https://github.com/IRMVLab/Point-Mamba))
 
 ## Medical Imaging
 - [VM-UNet: Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2402.02491); Jiacheng Ruan, Suncheng Xiang ([Paper](https://arxiv.org/abs/2402.02491), [Code](https://github.com/JCruan519/VM-UNet))
@@ -58,9 +75,18 @@ List of papers related to State Space Models (Mamba) in Vision.
 - [MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration](https://arxiv.org/abs/2401.13934); Tao Guo, Yinuo Wang, Shihao Shu, Diansheng Chen, Zhouping Tang, Cai Meng, Xiangzhi Bai ([Paper](https://arxiv.org/abs/2401.13934), [Code](https://github.com/Guo-Stone/MambaMorph))
 - [SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation](https://arxiv.org/abs/2401.13560); Zhaohu Xing, Tian Ye, Yijun Yang, Guang Liu, Lei Zhu ([Paper](https://arxiv.org/abs/2401.13560), [Code](https://github.com/ge-xing/SegMamba))
 - [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://arxiv.org/abs/2401.04722); Jun Ma, Feifei Li, Bo Wang ([Paper](https://arxiv.org/abs/2401.04722), [Code](https://wanglab.ai/u-mamba.html))
+- [MedMamba: Vision Mamba for Medical Image Classification](https://arxiv.org/abs/2403.03849); Yubiao Yue, Zhenzhang Li ([Paper](https://arxiv.org/abs/2403.03849), [Code](https://github.com/YubiaoYue/MedMamba))
+- [MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation](https://arxiv.org/abs/2402.18451); Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang ([Paper](https://arxiv.org/abs/2402.18451), [Code](https://github.com/ayanglab/MambaMIR))
+- [P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation](https://arxiv.org/abs/2402.08506); Zi Ye, Tianxiang Chen, Fangyijie Wang, Hanwei Zhang, Guanxi Li, Lijun Zhang ([Paper](https://arxiv.org/abs/2402.08506))
+- [H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.13642); Renkai Wu, Yinghao Liu, Pengchen Liang, Qing Chang ([Paper](https://arxiv.org/abs/2403.13642), [Code](https://github.com/wurenkai/H-vmunet))
+- [VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.09157); Mingya Zhang, Yue Yu, Limei Gu, Tingsheng Lin, Xianping Tao ([Paper](https://arxiv.org/abs/2403.09157), [Code](https://github.com/nobodyplayer1/VM-UNetV2))
+- [MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction](https://arxiv.org/abs/2403.08479); Linjie Fu, Xia Li, Xiuding Cai, Yingkai Wang, Xueyao Wang, Yali Shen, Yu Yao ([Paper](https://arxiv.org/abs/2403.08479))
 
 ## Generation and Reconstructions
 - [Scalable Diffusion Models with State Space Backbone](https://arxiv.org/abs/2402.05608); Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang ([Paper](https://arxiv.org/abs/2402.05608), [Code](https://github.com/feizc/DiS))
 - [MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/abs/2402.15648); Hang Guo, Jinmin Li, Tao Dai, Zhihao Ouyang, Xudong Ren, Shu-Tao Xia ([Paper](https://arxiv.org/abs/2402.15648), [Code](https://github.com/csguoh/MambaIR))
 - [Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/abs/2403.07487); Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang ([Paper](https://arxiv.org/abs/2403.07487), [Code](https://steve-zeyu-zhang.github.io/MotionMamba/))
 - [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139); Zhuoran Zheng, Chen Wu ([Paper](https://arxiv.org/abs/2402.04139), [Code](https://github.com/zzr-idam/UVM-Net))
+- [ZigMa: Zigzag Mamba Diffusion Model](https://arxiv.org/abs/2403.13802); Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer ([Paper](https://arxiv.org/abs/2403.13802), [Code](https://taohu.me/zigma/))
+- [MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models](https://arxiv.org/abs/2403.09471); Zunnan Xu, Yukang Lin, Haonan Han, Sicheng Yang, Ronghui Li, Yachao Zhang, Xiu Li ([Paper](https://arxiv.org/abs/2403.09471))
+- [Activating Wider Areas in Image Super-Resolution](https://arxiv.org/abs/2403.08330); Cheng Cheng, Hang Wang, Hongbin Sun ([Paper](https://arxiv.org/abs/2403.08330))
